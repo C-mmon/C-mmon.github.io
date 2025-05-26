@@ -14,7 +14,7 @@ timezone: Asia/Shanghai
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Your Name # CHANGE THIS: Your name or site title
+title: Aniket Kumar # CHANGE THIS: Your name or site title
 
 tagline: Developer & Tech Writer # CHANGE THIS: Your subtitle/tagline
 
@@ -23,24 +23,24 @@ description: >- # CHANGE THIS: Brief description for SEO
 
 # IMPORTANT: Fill in your GitHub Pages URL
 # Replace 'yourusername' with your actual GitHub username
-url: "https://yourusername.github.io"
+url: "https://c-mmon.github.io"
 
 github:
-  username: yourusername # CHANGE THIS: Your GitHub username
+  username: C-mmon # CHANGE THIS: Your GitHub username
 
 twitter:
-  username: twitter_username # OPTIONAL: Your Twitter username
+  username: https://x.com/cmmonco # OPTIONAL: Your Twitter username
 
 social:
   # CHANGE THIS: Your full name
-  name: Your Full Name
-  email: your.email@example.com # CHANGE THIS: Your email address
+  name: Aniket Kumar
+  email: aniketsinha101@gmail.com # CHANGE THIS: Your email address
   links:
     # CHANGE THESE: Your social media links
-    - https://github.com/yourusername # Your GitHub profile
-    - https://linkedin.com/in/yourprofile # Your LinkedIn profile
+    - https://github.com/C-mmon # Your GitHub profile
+    - https://www.linkedin.com/in/cmmon/ # Your LinkedIn profile
     # Uncomment and customize additional social links:
-    # - https://twitter.com/username
+    - https://x.com/cmmonco
     # - https://www.facebook.com/username
 
 # Site Verification Settings
